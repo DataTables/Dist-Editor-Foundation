@@ -1,6 +1,6 @@
 {
   "name": "datatables.net-editor-zf",
-  "version": "1.6.3",
+  "version": "1.6.5",
   "description": "DataTables Editor - Foundation integration",
   "main": "js/editor.foundation.js",
   "scripts": {
