@@ -1,8 +1,9 @@
 {
   "name": "datatables.net-editor-zf",
-  "version": "2.0.3",
+  "version": "2.2.0",
   "description": "DataTables Editor - Foundation integration",
   "main": "js/editor.foundation.js",
+  "module": "js/editor.foundation.mjs",
   "style": "css/editor.foundation.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,7 +18,7 @@
     "Foundation"
   ],
   "dependencies": {
-    "datatables.net-editor": "^2.0.3"
+    "datatables.net-editor": "^2.2.0"
   },
   "author": "SpryMedia Ltd",
   "license": "SEE LICENSE IN License.md"
